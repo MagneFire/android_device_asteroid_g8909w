@@ -1,0 +1,2 @@
+# android_device_asteroid_g8909
+Generic MSM8909 device configuration
