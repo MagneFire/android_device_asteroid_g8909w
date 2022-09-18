@@ -12,5 +12,3 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Device path
-DEVICE_PATH := device/asteroid/g8909/rootdir
