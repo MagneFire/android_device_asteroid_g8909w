@@ -1,0 +1,3 @@
+service hwservicemanager /system/bin/hwservicemanager
+    setenv LD_PRELOAD /usr/libexec/hal-droid/system/lib/libselinux_stubs.so
+    class core

@@ -1,0 +1,13 @@
+cc_library {
+    name: "init-scripts",
+    init_rc: [
+        "android.hardware.bluetooth@1.0-service.rc",
+        "android.hardware.configstore@1.1-service.rc",
+        "android.hardware.gnss@1.0-service.rc",
+        "android.hardware.graphics.allocator@2.0-service.rc",
+        "android.hardware.graphics.composer@2.1-service.rc",
+        "android.hardware.power@1.0-service.rc",
+        "hwservicemanager.rc",
+        "vndservicemanager.rc"
+    ]
+}
