@@ -17,11 +17,11 @@
 
 
 # Inherit from those products. Most specific first.
-$(call inherit-product, device/asteroid/g8909/device.mk)
+$(call inherit-product, device/asteroid/g8909w/device.mk)
 
 
-PRODUCT_NAME := aosp_g8909
-PRODUCT_DEVICE := g8909
+PRODUCT_NAME := aosp_g8909w
+PRODUCT_DEVICE := g8909w
 PRODUCT_MODEL := MSM8909
 PRODUCT_BRAND := asteroid
 PRODUCT_MANUFACTURER := asteroid

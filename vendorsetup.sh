@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo aosp_g8909-eng
-add_lunch_combo aosp_g8909-userdebug
+add_lunch_combo aosp_g8909w-eng
+add_lunch_combo aosp_g8909w-userdebug
